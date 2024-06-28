@@ -1,1 +1,1 @@
-The goal of this project is to provide a realistic network simulation of a medical environment using Cisco Packet Tracer.
+A hospital environment in Cisco Packet Tracer simulates network infrastructure, showcasing connectivity between devices like computers and communication tools. It emphasizes network security, efficient data flow, and real-time data access for medical staff.
